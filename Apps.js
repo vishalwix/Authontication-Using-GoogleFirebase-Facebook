@@ -7,7 +7,7 @@ import {
   GraphRequest,
   GraphRequestManager,
 } from 'react-native-fbsdk';
-
+//Added Comment
 export default class App extends Component {
   constructor() {
     super();
