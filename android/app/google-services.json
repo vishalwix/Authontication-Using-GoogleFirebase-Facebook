@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132550859180",
+    "firebase_url": "https://fassionbrand.firebaseio.com",
+    "project_id": "fassionbrand",
+    "storage_bucket": "fassionbrand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132550859180:android:90c64ec05585bca3a9c209",
+        "android_client_info": {
+          "package_name": "com.fassionbrand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132550859180-ljo8dqvp1de4qih3k69cvg8ot9nobert.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fassionbrand",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "132550859180-ort44c3ohekovgh5pu1qep7msb3vul40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAIiE6tlQY3soqrJ4ogX4JoF_7rymdNvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132550859180-ort44c3ohekovgh5pu1qep7msb3vul40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
